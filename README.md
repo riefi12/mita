@@ -106,7 +106,6 @@ MITA_ADMIN_SESSION_SECRET=secret_acak_minimal_32_karakter
 ```powershell
 node -e "console.log(require('node:crypto').randomBytes(32).toString('hex'))"
 ```
-*(Jangan pernah memasukkan (commit) `.env.local` ke dalam repositori Git!)*
 
 ### Aturan & Batasan Feed OPD
 - Admin dapat menambah, mengedit, menonaktifkan, atau menghapus beberapa sumber RSS/sitemap untuk setiap OPD.
