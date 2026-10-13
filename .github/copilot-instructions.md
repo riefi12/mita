@@ -1,0 +1,13 @@
+﻿- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+
+- [x] Clarify Project Requirements
+	- [x] Scaffold the Project (Next.js App Router with TypeScript in the current workspace root)
+	- [x] Customize the Project (RSS reader, search, bookmarks, and responsive layout)
+	- [x] Install Required Extensions (none required)
+	- [ ] Compile the Project (blocked: Node.js and npm are unavailable in this environment, so build was not run)
+	- [x] Create and Run Task (not needed; VS Code can detect the npm scripts in package.json)
+	- [ ] Launch the Project (not launched because Node.js is unavailable)
+	- [x] Ensure Documentation is Complete (README.md and this file are current)
+	- Work through each checklist item systematically.
+- Keep communication concise and focused.
+- Follow development best practices.
